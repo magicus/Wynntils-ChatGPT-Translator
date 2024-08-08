@@ -1,0 +1,7 @@
+.env
+.idea/
+batch_files/
+
+.venv/
+
+en_us.json
